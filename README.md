@@ -10,7 +10,7 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples | by vasa | HackerNoon.com | Medium](https://medium.com/hackernoon/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
 
-**Example repo uses Buidler Solidity development Tools (https://buidler.dev/) & its workflow**
+**Example repo uses Buidler Solidity development Tools (https://buidler.dev/) & its workflow. And examples can be deployed & validated on Buidler EVM, ganache, and KOVAN testnet**
 
 ---
 
