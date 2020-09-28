@@ -2,7 +2,7 @@
 
 Awesome Collection of Solidity Hacks/Vulnarabilities examples collected from walkthrough of various experts. 
 
-Collections helped be to Deep dive into Solidity space, as part of my Solidity levelup journey.
+Collections helped be to Deep dive into Solidity Security Space, as part of my Solidity levelup journey.
 
 Thanks to vasa, I took his writeup and below reference as starting pointer in this journey.
 
