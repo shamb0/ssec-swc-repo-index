@@ -14,6 +14,14 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 ---
 
+## SWC-101 | Integer Overflow Underflow Vulnerability
+
+* [shamb0/ssec-swc-101-int-ouflow: ssec-swc-101-int-ouflow | Solidity | Security | SWC-101 | Integer Overflow Underflow Vulnerability](https://github.com/shamb0/ssec-swc-101-int-ouflow)
+
+## SWC-107 | reentrancy attack (a.k.a. recursive call attack)
+
+* [shamb0/ssec-swc-107-reentrancy: Solidity | Security | SWC-107 | reentrancy attack (a.k.a. recursive call attack) examples](https://github.com/shamb0/ssec-swc-107-reentrancy)
+
 ## SWC-112 | Delegatecall to Untrusted Callee
 
 * [shamb0/ssec-swc-112-delegatecall: ssec-swc-112-delegatecall | Solidity | Security | SWC-112 | Delegatecall to Untrusted Callee](https://github.com/shamb0/ssec-swc-112-delegatecall)
@@ -22,11 +30,4 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [shamb0/ssec-swc-132-unexp-ether-balance: ssec-swc-132-unexp-ether-balance | Solidity | Security | SWC-132 | Unexpected Ether balance](https://github.com/shamb0/ssec-swc-132-unexp-ether-balance)
 
-## SWC-101 | Integer Overflow Underflow Vulnerability
-
-* [shamb0/ssec-swc-101-int-ouflow: ssec-swc-101-int-ouflow | Solidity | Security | SWC-101 | Integer Overflow Underflow Vulnerability](https://github.com/shamb0/ssec-swc-101-int-ouflow)
-
-## SWC-107 | reentrancy attack (a.k.a. recursive call attack)
-
-* [shamb0/ssec-swc-107-reentrancy: Solidity | Security | SWC-107 | reentrancy attack (a.k.a. recursive call attack) examples](https://github.com/shamb0/ssec-swc-107-reentrancy)
 
