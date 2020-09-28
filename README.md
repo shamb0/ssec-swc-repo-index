@@ -18,7 +18,7 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [shamb0/ssec-swc-101-int-ouflow: ssec-swc-101-int-ouflow | Solidity | Security | SWC-101 | Integer Overflow Underflow Vulnerability](https://github.com/shamb0/ssec-swc-101-int-ouflow)
 
-## SWC-107 | reentrancy attack (a.k.a. recursive call attack)
+## SWC-107 | Reentrancy attack (a.k.a. recursive call attack)
 
 * [shamb0/ssec-swc-107-reentrancy: Solidity | Security | SWC-107 | reentrancy attack (a.k.a. recursive call attack) examples](https://github.com/shamb0/ssec-swc-107-reentrancy)
 
