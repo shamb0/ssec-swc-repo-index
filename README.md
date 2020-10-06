@@ -22,9 +22,21 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [shamb0/ssec-swc-107-reentrancy: Solidity | Security | SWC-107 | reentrancy attack (a.k.a. recursive call attack) examples](https://github.com/shamb0/ssec-swc-107-reentrancy)
 
+## SWC-109 | Uninitialized Storage Pointer
+
+* [shamb0/ssec-swc-109-uinitstrptr: ssec-swc-109-uinitstrptr | Solidity | Security | SWC-109 | Uninitialized Storage Pointer](https://github.com/shamb0/ssec-swc-109-uinitstrptr)
+
 ## SWC-112 | Delegatecall to Untrusted Callee
 
 * [shamb0/ssec-swc-112-delegatecall: ssec-swc-112-delegatecall | Solidity | Security | SWC-112 | Delegatecall to Untrusted Callee](https://github.com/shamb0/ssec-swc-112-delegatecall)
+
+## SWC-115 | Authorization through tx.origin
+
+* [shamb0/ssec-swc-115-tx.origin: ssec-swc-115-tx.origin | Solidity | Security | SWC-115 | Authorization through tx.origin](https://github.com/shamb0/ssec-swc-115-tx.origin)
+
+## SWC-118 | Constructors with Care
+
+* [shamb0/ssec-swc-118-const-with-care: ssec-swc-118-const-with-care | Solidity | Security | SWC-118 | Constructors with Care](https://github.com/shamb0/ssec-swc-118-const-with-care)
 
 ## SWC-132 | Unexpected Ether balance
 
