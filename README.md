@@ -38,8 +38,15 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [shamb0/ssec-swc-118-const-with-care: ssec-swc-118-const-with-care | Solidity | Security | SWC-118 | Constructors with Care](https://github.com/shamb0/ssec-swc-118-const-with-care)
 
+## SWC-125 | Incorrect Inheritance Order
+
+* [shamb0/ssec-swc-125-incorrect-inher-order: ssec-swc-125-incorrect-inher-order | Solidity | Security | SWC-125 | Incorrect Inheritance Order](https://github.com/shamb0/ssec-swc-125-incorrect-inher-order)
+
+
 ## SWC-132 | Unexpected Ether balance
 
 * [shamb0/ssec-swc-132-unexp-ether-balance: ssec-swc-132-unexp-ether-balance | Solidity | Security | SWC-132 | Unexpected Ether balance](https://github.com/shamb0/ssec-swc-132-unexp-ether-balance)
+
+
 
 
