@@ -38,6 +38,10 @@ Thanks to vasa, I took his writeup and below reference as starting pointer in th
 
 * [shamb0/ssec-swc-118-const-with-care: ssec-swc-118-const-with-care | Solidity | Security | SWC-118 | Constructors with Care](https://github.com/shamb0/ssec-swc-118-const-with-care)
 
+## SWC-120 | Block Timestamp Manipulation
+
+* [shamb0/ssec-swc-120-blk-time-manipulation: ssec-swc-120-blk-time-manipulation | Solidity | Security | SWC-120 | Block Timestamp Manipulation](https://github.com/shamb0/ssec-swc-120-blk-time-manipulation)
+
 ## SWC-125 | Incorrect Inheritance Order
 
 * [shamb0/ssec-swc-125-incorrect-inher-order: ssec-swc-125-incorrect-inher-order | Solidity | Security | SWC-125 | Incorrect Inheritance Order](https://github.com/shamb0/ssec-swc-125-incorrect-inher-order)
